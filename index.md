@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ojingiri Samuel
 
 I'm a **Full-Stack Software Engineer** with a passion for building web apps, APIs, and scalable solutions. Welcome to my portfolio!
 
@@ -6,8 +6,8 @@ I'm a **Full-Stack Software Engineer** with a passion for building web apps, API
 
 ## 🧠 About Me
 
-- 💼 I work with **JavaScript**, **React**, **Node.js**, **Express**, and **MongoDB**.
-- 🎓 Background in [your degree or field, if any].
+- 💼 I work with **JavaScript**, **React**, **PHP**, **Node.js**, **Express**, **Mysql** and **MongoDB**.
+- 🎓 Background in [Data Analysis].
 - 🛠 Always exploring new tools and best practices.
 
 ---
